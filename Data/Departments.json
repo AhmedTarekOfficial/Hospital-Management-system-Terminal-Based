@@ -1,0 +1,53 @@
+[
+
+
+{
+
+    "Departments_id" : [
+
+        {
+
+
+"1"  : {
+
+    "Departement_Title" : "Management" ,
+
+} ,
+
+"2"  : {
+
+    "Departement_Title" : "Medical" ,
+ 
+} ,
+"3"  : {
+
+    "Departement_Title" : "Technical" ,
+
+} ,
+
+"4"  : {
+
+    "Departement_Title" : "Human Resources" ,
+
+} ,
+ 
+"5"  : {
+    "Departement_Title" : "Finance" ,
+
+} 
+
+
+
+
+        }
+
+
+
+    ]
+
+
+
+
+}
+
+]

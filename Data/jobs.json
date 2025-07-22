@@ -1,0 +1,24 @@
+[
+{
+
+
+"Job_id" : [
+{
+"1" : {
+"Job_Title" : "Manager" ,
+"Department_id" : "1" 
+} , 
+
+"2" : {
+    "Job_Title" : "Doctor" , 
+    "Department_id" : "2"
+} ,
+
+"3" : {
+"Job_Title" : "IT" , 
+"Department_id" : "3"
+}
+}
+]
+}   
+]
